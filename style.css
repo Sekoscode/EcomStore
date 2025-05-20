@@ -67,9 +67,10 @@ body {
 }
 
 .footer {
-    background-color: #f8f9fa;
+    background-color: #4b2e2e;
     padding: 20px;
     text-align: center;
+    color: #ffffff;
 }
 
 .footer-logo {
@@ -103,4 +104,8 @@ body {
     .footer-logo {
         max-width: 120px;
     }
+}
+
+.navbar-dark.bg-dark {
+    background-color: #4b2e2e !important;
 }
